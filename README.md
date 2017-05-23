@@ -9,7 +9,7 @@ LeetCode problem solution code. There are two form for you to find the solution 
 
 ## By Type
 ### Dynamic Programming
-[91.Decode Ways](./leetcode-1~100/91_Decode_Ways.md) (Medium)
+- [91.Decode Ways](./leetcode-1~100/91_Decode_Ways.md) (Medium)
 
 ## LeetCode Contest
 
