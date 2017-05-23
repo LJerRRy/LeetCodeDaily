@@ -1,12 +1,13 @@
 # LeetCodeDaily
-LeetCode problem solution code
+LeetCode problem solution code.
+Notes: "&hearts;" means it seems a little hard for me, just for me, maybe not for you.
 
-## LeetCode
+## By Label
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/#/description)|[java](./leetcode-1~100/91_Decode_Ways.md)|Medium|
 
-## LeetCode
+## By Type
 ### Dynamic Programming
 [91.Decode Ways](./leetcode-1~100/91_Decode_Ways.md) (Medium)
 
