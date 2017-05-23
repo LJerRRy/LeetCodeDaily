@@ -1,6 +1,6 @@
 # LeetCodeDaily
-LeetCode problem solution code.
-Notes: "&hearts;" means it seems a little hard for me, just for me, maybe not for you.
+LeetCode problem solution code. There are two form for you to find the solution by Type or Label.<br>
+**Notes:** "&hearts;" means it seems a little hard for me, just for me, maybe not for you.
 
 ## By Label
 | # | Title | Solution | Difficulty |
