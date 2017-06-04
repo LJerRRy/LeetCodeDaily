@@ -33,8 +33,15 @@ LeetCode problem solution code. There are two form for you to find the solution 
 
 ### Contest
 
+#### Contest 35
+- [605. Can Place Flowers](./contest/contest35/1_605_Can_Place_Flowers.md)
+- [606. Construct String from Binary Tree](./contest/contest35/2_606_Construct_String_from_Binary_Tree.md)
+- [609. Find Duplicate File in System](./contest/contest35/3_609_Find_Duplicate_File_in_System.md)
+- [591. Tag Validator](./contest/contest35/4_591_Tag_Validator.md)
+
 #### Contest 34
 - [1.598. Range Addition II](./contest/contest34/1_598_Range_Addition_II.md)(Easy)(Array)
 - [2.599. Minimum Index Sum of Two Lists](./contest/contest34/2_599_Minimum_Index_Sum_of_Two_Lists.md)(Easy)(Array)
 - [3.565. Array Nesting](./contest/contest34/3_565_Array_Nesting.md)(Medium)(DFS)
 - [4.600. Non-negative Integers without Consecutive Ones "&hearts;"](./contest/contest34/4_600_Non-negative_Integers_without_Consecutive_Ones.md)(Hard) (Bit Manipulate)
+
