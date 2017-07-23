@@ -9,8 +9,12 @@ LeetCode problem solution code. There are two form for you to find the solution 
 ## By Label
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|644|[Maximum Average Subarray II "&hearts;"](https://leetcode.com/problems/maximum-average-subarray-ii/#/description)|[java](./contest/contest41/2_644_Maximum_Average_Subarray_II)|Hard|
-|643|[Maximum Average Subarray I "&spades;"](https://leetcode.com/problems/maximum-average-subarray-ii/#/description)|[java](./contest/contest41/1_643_Maximum_Average_Subarray_I)|Easy|
+|648|[Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)|[java](./contest/contest42/4_648_Replace_Words.md)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)|[java](./contest/contest42/3_647_Palindromic_Substrings.md)|Medium|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)|[java](./contest/contest42/2_646_Maximum_Length_of_Pair_Chain.md)|Medium|
+|645|[Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)|[java](./contest/contest42/1_645_Set_Mismatch.md)|Easy|
+|644|[Maximum Average Subarray II "&hearts;"](https://leetcode.com/problems/maximum-average-subarray-ii/#/description)|[java](./contest/contest41/2_644_Maximum_Average_Subarray_II.md)|Hard|
+|643|[Maximum Average Subarray I "&spades;"](https://leetcode.com/problems/maximum-average-subarray-ii/#/description)|[java](./contest/contest41/1_643_Maximum_Average_Subarray_I.md)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown "&hearts;"](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/#/description)|[java](./leetcode-1~100/309_Best_Time_to_Buy_and_Sell_Stock_with_cooldown.md)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/#/description)|[java](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_IV.md)|Hard|
 |123|[Best Time to Buy and Sell Stock III "&hearts;"](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/#/description)|[java](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_III.md)|Hard|
@@ -24,25 +28,41 @@ LeetCode problem solution code. There are two form for you to find the solution 
 
 ## By Type
 ### Dynamic Programming
-- [91.Decode Ways](./leetcode-1~100/91_Decode_Ways.md) (Medium)
-- [95.Unique Binary Search Trees II](./leetcode-1~100/95_Unique_Binary_Search_Trees_2.md)(Medium)
-- [96.Unique Binary Search Trees](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)(Medium)
-- [120.Triangle](./leetcode-1~100/120_Triangle.md)(Medium)
-- [121. Best Time to Buy and Sell Stock](./leetcode-1~100/121_Best_Time_to_Buy_and_Sell_Stock.md)(Easy)
-- [123. Best Time to Buy and Sell Stock III "&hearts;"](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_III.md)(Hard)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|45|[45. Jump Game II"&hearts;"](https://leetcode.com/problems/Jump-Game-II/#/description)|[java](./leetcode-1~100/45_Jump_Game_II.md)|Hard|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/#/description)|[java](./leetcode-1~100/91_Decode_Ways.md)|Medium|
+|95|[Unique Binary Search Trees II "&hearts;"](https://leetcode.com/problems/unique-binary-search-trees-ii/#/description)|[java](./leetcode-1~100/95_Unique_Binary_Search_Trees_2.md)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/#/description)|[java](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)|Hard|
+|120|[Triangle](https://leetcode.com/problems/triangle/#/description)|[java](./leetcode-1~100/120_Triangle.md)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description)|[java](./leetcode-1~100/121_Best_Time_to_Buy_and_Sell_Stock.md)|Easy|
 - [188. Best Time to Buy and Sell Stock IV](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_IV.md)(Hard)
-- [309. Best Time to Buy and Sell Stock with Cooldown "&hearts;"](./leetcode-1~100/309_Best_Time_to_Buy_and_Sell_Stock_with_cooldown.md)(Medium)
+|123|[Best Time to Buy and Sell Stock III "&hearts;"](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/#/description)|[java](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_III.md)|Hard|
+|309|[Best Time to Buy and Sell Stock with Cooldown "&hearts;"](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/#/description)|[java](./leetcode-1~100/309_Best_Time_to_Buy_and_Sell_Stock_with_cooldown.md)|Medium|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)|[java](./contest/contest42/2_646_Maximum_Length_of_Pair_Chain.md)|Medium|
 
 
 ### Backtrack
-- [96.Unique Binary Search Trees](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)(Medium)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/#/description)|[java](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)|Hard|
 
 ### Arrays/Greedy
-- [45. Jump Game II](./leetcode-1~100/45_Jump_Game_II.md)(Hard)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|45|[45. Jump Game II"&hearts;"](https://leetcode.com/problems/Jump-Game-II/#/description)|[java](./leetcode-1~100/45_Jump_Game_II.md)|Hard|
+|645|[Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)|[java](./contest/contest42/1_645_Set_Mismatch.md)|Easy|
 
 ### Binary Search
-- [644. Maximum Average Subarray II](./contest/contest41/2_644_Maximum_Average_Subarray_II)(Hard)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|644|[Maximum Average Subarray II "&hearts;"](https://leetcode.com/problems/maximum-average-subarray-ii/#/description)|[java](./contest/contest41/2_644_Maximum_Average_Subarray_II.md)|Hard|
 
+### String
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|647|[Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)|[java](./contest/contest42/3_647_Palindromic_Substrings.md)|Medium|
+|648|[Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)|[java](./contest/contest42/4_648_Replace_Words.md)|Medium|
 
 ## LeetCode Contest
 
@@ -71,5 +91,13 @@ LeetCode problem solution code. There are two form for you to find the solution 
 - [2.599. Minimum Index Sum of Two Lists](./contest/contest36/604. Design Compressed String Iterator.md)(Easy)(Iterator)
 - [3.565. Array Nesting](./contest/contest34/3_565_Array_Nesting.md)(Medium)(DFS)
 - [4.600. Non-negative Integers without Consecutive Ones "&hearts;"](./contest/contest34/4_600_Non-negative_Integers_without_Consecutive_Ones.md)(Hard) (Bit Manipulate)
+
+#### Contest 42
+四道题，难度都不大，分别考察了，数组，回文字符串，二维数组，动态规划。
+|648|[Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)|[java](./contest/contest42/4_648_Replace_Words.md)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)|[java](./contest/contest42/3_647_Palindromic_Substrings.md)|Medium|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)|[java](./contest/contest42/2_646_Maximum_Length_of_Pair_Chain.md)|Medium|
+|645|[Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)|[java](./contest/contest42/1_645_Set_Mismatch.md)|Easy|
+
 
 
