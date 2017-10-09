@@ -9,6 +9,8 @@ LeetCode problem solution code. There are two form for you to find the solution 
 ## By Label
 | # | Title | Solution | Difficulty | Feelings |
 |---| ----- | -------- | ---------- | -------- |
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|[java](https://leetcode.com/problems/max-area-of-island/solution/)|Medium|这里数组不大，应该用dfs，并标记已访问的，不应该用动态规划的，这里推不出状态方程|
+|694|[Number of Distinct Islands](https://leetcode.com/contest/leetcode-weekly-contest-53/problems/number-of-distinct-islands/)|[java](https://leetcode.com/problems/number-of-distinct-islands/solution/)|Medium|关键是怎么计算两个island是不是相同，这里一个方法是深度优先遍历时，向左向右向上和向下时分别乘以一个不同素数，这样如果两个island一模一样的话，那么乘积的结果是相同的，这样就可以统计出不重复的island|
 |648|[Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)|[java](./contest/contest42/4_648_Replace_Words.md)|Medium|...|
 |647|[Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)|[java](./contest/contest42/3_647_Palindromic_Substrings.md)|Medium|...|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)|[java](./contest/contest42/2_646_Maximum_Length_of_Pair_Chain.md)|Medium|...|
@@ -22,6 +24,8 @@ LeetCode problem solution code. There are two form for you to find the solution 
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/#/description)|[java](./leetcode-1~100/122_Best_Time_to_Buy_and_Sell_Stock_II.md)|Easy|...|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description)|[java](./leetcode-1~100/121_Best_Time_to_Buy_and_Sell_Stock.md)|Easy|...|
 |120|[Triangle](https://leetcode.com/problems/triangle/#/description)|[java](./leetcode-1~100/120_Triangle.md)|Medium|...|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)|[java](#)|Medium|层次遍历，记住每层的个数，以及下一层的个数，这里不能用递归，因为不是完全二叉树，不能直接递归，还有一种直接用三个指针，不需要记录层数个数|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[java](#)|Medium|层次遍历，记住每层的个数，以及下一层的个数，或者用递归，这里递归有个很好的方法|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/#/description)|[java](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)|Hard|...|
 |95|[Unique Binary Search Trees II "&hearts;"](https://leetcode.com/problems/unique-binary-search-trees-ii/#/description)|[java](./leetcode-1~100/95_Unique_Binary_Search_Trees_2.md)|Medium|...|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/#/description)|[java](./leetcode-1~100/91_Decode_Ways.md)|Medium|...|
@@ -54,13 +58,16 @@ LeetCode problem solution code. There are two form for you to find the solution 
 |646|[Maximum Length of Pair Chain](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/maximum-length-of-pair-chain/)|[java](./contest/contest42/2_646_Maximum_Length_of_Pair_Chain.md)|Medium|
 
 
-### Backtrack
+### Backtrack/DFS
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |51|[N-Queens](https://leetcode.com/problems/n-queens/#/description)|[java](./leetcode-1~100/51_N_Queens.md)|Hard|
 |52|[N-Queens](https://leetcode.com/problems/n-queens-ii/#/description)|[java](./leetcode-1~100/52_N_Queens_II.md)|Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/#/description)|[java](./leetcode-1~100/96_Unique_Binary_Search_Trees.md)|Hard|
 |526|[Beautiful Arrangement "&spades;"](https://leetcode.com/problems/beautiful-arrangement/description/)|[java](https://leetcode.com/problems/beautiful-arrangement/solution/)|Medium|
+|694|[Number of Distinct Islands](https://leetcode.com/contest/leetcode-weekly-contest-53/problems/number-of-distinct-islands/)|[java](https://leetcode.com/problems/number-of-distinct-islands/solution/)|Medium|关键是怎么计算两个island是不是相同，这里一个方法是深度优先遍历时，向左向右向上和向下时分别乘以一个不同素数，这样如果两个island一模一样的话，那么乘积的结果是相同的，这样就可以统计出不重复的island|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|[java](https://leetcode.com/problems/max-area-of-island/solution/)|Medium|这里数组不大，应该用dfs，并标记已访问的，不应该用动态规划的，这里推不出状态方程|
+
 
 ### Arrays/Greedy
 | # | Title | Solution | Difficulty |
