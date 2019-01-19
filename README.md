@@ -81,7 +81,7 @@ LeetCode problem solution code. There are two form for you to find the solution 
 |55|[Jump Game](https://leetcode.com/problems/jump-game/#/description)|[java](./leetcode-1~100/55_Jump_Game.md)|Medium|
 |59|[Spiral Matrix  II](https://leetcode.com/problems/spiral-matrix-II/#/description)|[java](./leetcode-1~100/59_Spiral_Matrix_II.md)|Medium|
 |645|[Set Mismatch](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/set-mismatch/)|[java](./contest/contest42/1_645_Set_Mismatch.md)|Easy|
-[905]|[Sort Array By Parity](https://leetcode.com/problems/max-area-of-island/description/)|[java](./leetcode-900+/905_Sort_Array_By_Parity.md)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/max-area-of-island/description/)|[java](./leetcode-900+/905_Sort_Array_By_Parity.md)|Easy|
 
 ### Binary Search
 
@@ -97,6 +97,7 @@ LeetCode problem solution code. There are two form for you to find the solution 
 |49|[Group Anagrams "&spades;"](https://leetcode.com/problems/Group-Anagrams/#/description)|[java](./leetcode-1~100/49_Group_Anagrams.md)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|[java](./leetcode-1~100/58_Length_of_Last_Word.md)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/Add-Binary/#/description)|[java](./leetcode-1~100/67_Add_Binary.md)|Easy|
+|466|[Count The Repetitions](https://leetcode.com/problems/max-area-of-island/description/)|[java](./leetcode-1~100/466_Count_The_Repetitions.md),[Python](./leetcode-1~100/466_Count_The_Repetitions.md)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/palindromic-substrings/)|[java](./contest/contest42/3_647_Palindromic_Substrings.md)|Medium|
 |648|[Replace Words](https://leetcode.com/contest/leetcode-weekly-contest-42/problems/replace-words/)|[java](./contest/contest42/4_648_Replace_Words.md)|Medium|
 
